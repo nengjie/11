@@ -9,6 +9,8 @@ public class Person {
 		System.out.println("zheshizai 12zhong ..........");
 		
 		System.out.println("111111111111111");
+		
+		System.out.println("bbbbbbbbbbbbbbbb");
 	}
 
 }
