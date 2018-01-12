@@ -15,6 +15,8 @@ public class Person {
 		System.out.println("aaaaaaaaaaaaaa");
 		
 		System.out.println("11111111111111111");
+		
+		System.out.println("woshichennengjie");
 	}
 
 }
