@@ -5,6 +5,8 @@ public class Person {
 		System.out.println("hello world......");
 		
 		System.out.println("陈能杰");
+		
+		System.out.println("zheshizai 12zhong ..........");
 	}
 
 }
